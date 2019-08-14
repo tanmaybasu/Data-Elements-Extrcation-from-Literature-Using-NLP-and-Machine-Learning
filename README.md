@@ -17,10 +17,15 @@ systematic reviews related to congestive heart failure using inclusion criteria 
 example data element. The empirical results show that the proposed system
 automatically identifies sentences containing the data element of interest with a high
 recall (93.75\%) and reasonable precision (27.05\% - which means the reviewers have
-to read only 3.7 sentences on average). The empirical results suggest that the tool is retrieving valuable information from the reference articles, even when it is time consuming to identify them manually. Thus we hope that the tool will be useful for automatic data extraction from biomedical research publications. The future scope of this work is to generalize this information framework for all types of systematic reviews.
+to read only 3.7 sentences on average). The empirical results suggest that the tool is retrieving valuable information from the reference articles, even when it is time consuming to identify them manually. Thus we hope that the tool will be useful for automatic data extraction from biomedical research publications. The future scope of this work is to generalize this information framework for all types of systematic reviews. 
 
 
-Summary of the Codes 
+The analysis and performance of this framework is explained in the following paper:
+
+Tanmay Basu, Shraman Kumar, Abhishek Kalyan, Priyanka Jayaswal, Pawan Goyal, Stephen Pettifer, Siddhartha R Jonnalagadda. A novel framework to expedite systematic reviews by automatically building information extraction training corpora. arXiv preprint arXiv:1606.06424, 2016. (https://arxiv.org/abs/1606.06424).
+
+
+Summary of of different codes of this project is as follows:
 
 
 * code_included_ref_download.py: The bibliographic information of each reference included in a systematic review are extracted from the online Cochrane Library. This code is written in Python.
