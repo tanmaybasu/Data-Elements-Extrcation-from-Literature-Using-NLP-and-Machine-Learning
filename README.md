@@ -22,7 +22,7 @@ to read only 3.7 sentences on average). The empirical results suggest that the t
 
 The analysis and performance of this framework is explained in the following paper:
 
-Tanmay Basu, Shraman Kumar, Abhishek Kalyan, Priyanka Jayaswal, Pawan Goyal, Stephen Pettifer, Siddhartha R Jonnalagadda. A novel framework to expedite systematic reviews by automatically building information extraction training corpora. arXiv preprint arXiv:1606.06424, 2016. (https://arxiv.org/abs/1606.06424).
+[Tanmay Basu, Shraman Kumar, Abhishek Kalyan, Priyanka Jayaswal, Pawan Goyal, Stephen Pettifer, Siddhartha R Jonnalagadda. A novel framework to expedite systematic reviews by automatically building information extraction training corpora. arXiv preprint arXiv:1606.06424, 2016.](https://arxiv.org/abs/1606.06424).
 
 
 Summary of of different codes of this project is as follows:
