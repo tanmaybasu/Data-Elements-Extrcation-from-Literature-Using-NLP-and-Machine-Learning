@@ -40,3 +40,4 @@ Summary of of different codes of this project is as follows:
 
 *	code_extract_inclusion_stmt_from_test_samples.py: The inputs to this code are the training corpus created by the earlier code and the test samples in text format. The code extracts the inclusion statements from these test samples. SVM is used as the classifier in this code. This code is written in Python. Scikit-learn, a machine learning tool is used in this code. 
 
+For any further query, comment or suggestion, you may reach out to me at welcometanmay@gmail.com. 
