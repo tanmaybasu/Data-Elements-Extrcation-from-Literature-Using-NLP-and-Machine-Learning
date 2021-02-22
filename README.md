@@ -24,8 +24,11 @@ The analysis and performance of this framework is explained in the following pap
 
 [Tanmay Basu, Shraman Kumar, Abhishek Kalyan, Priyanka Jayaswal, Pawan Goyal, Stephen Pettifer, Siddhartha R Jonnalagadda. A novel framework to expedite systematic reviews by automatically building information extraction training corpora. arXiv preprint arXiv:1606.06424, 2016.](https://arxiv.org/abs/1606.06424).
 
+## Prerequsites
+[Python 3 version](https://www.python.org/downloads/), [Scikit-Learn](https://scikit-learn.org/0.16/install.html), [NLTK](https://www.nltk.org/install.html), [Fitz](https://pypi.org/project/fitz/) 
 
-Summary of of different codes of this project is as follows:
+
+## How to Run the Pipeline
 
 
 * code_included_ref_download.py: The bibliographic information of each reference included in a systematic review are extracted from the online Cochrane Library. This code is written in Python.
@@ -40,4 +43,17 @@ Summary of of different codes of this project is as follows:
 
 *	code_extract_inclusion_stmt_from_test_samples.py: The inputs to this code are the training corpus created by the earlier code and the test samples in text format. The code extracts the inclusion statements from these test samples. SVM is used as the classifier in this code. This code is written in Python. Scikit-learn, a machine learning tool is used in this code. 
 
-For any further query, comment or suggestion, you may reach out to me at welcometanmay@gmail.com. 
+## Contact
+
+For any further query, comment or suggestion, you may reach out to me at welcometanmay@gmail.com
+
+## Citing
+```
+@article{basu16dataextraction,
+	title={A Novel Framework to Expedite Systematic Reviews by Automatically Building Information Extraction Training Corpora},
+	author={Basu, Tanmay and Kumar, Shraman and Kalyan, Abhishek and Jayaswal, Priyanka and Goyal, Pawan and Pettifer, Stephen and Jonnalagadda, Siddhartha R},
+	journal={arXiv preprint arXiv:1606.06424},
+	year={2016}
+}
+
+```
