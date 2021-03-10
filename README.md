@@ -47,7 +47,7 @@ The analysis and performance of this framework is explained in the following pap
 
 For any further query, comment or suggestion, you may reach out to me at welcometanmay@gmail.com
 
-## Citing
+## Citation
 ```
 @article{basu16dataextraction,
 	title={A Novel Framework to Expedite Systematic Reviews by Automatically Building Information Extraction Training Corpora},
