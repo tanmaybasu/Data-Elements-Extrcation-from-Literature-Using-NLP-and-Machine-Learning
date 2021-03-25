@@ -24,7 +24,7 @@ The analysis and performance of this framework is explained in the following pap
 
 [Tanmay Basu, Shraman Kumar, Abhishek Kalyan, Priyanka Jayaswal, Pawan Goyal, Stephen Pettifer, Siddhartha R Jonnalagadda. A novel framework to expedite systematic reviews by automatically building information extraction training corpora. arXiv preprint arXiv:1606.06424, 2016.](https://arxiv.org/abs/1606.06424).
 
-## Prerequsites
+## Prerequisites
 [Python 3](https://www.python.org/downloads/), [Scikit-Learn](https://scikit-learn.org/0.16/install.html), [NLTK](https://www.nltk.org/install.html), [PDFX](https://pypi.org/project/pdfx/) 
 
 
